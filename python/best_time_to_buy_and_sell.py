@@ -1,5 +1,5 @@
 class Solution:
-    def best_time_to_buy_and_sell(prices: list[int]) -> int:
+    def max_profit(prices: list[int]) -> int:
         left = 0
         right = 1 
         current_profit, max_profit = 0, 0

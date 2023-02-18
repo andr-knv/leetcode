@@ -14,3 +14,4 @@
 | Container With Most Water                      | Medium     | 16.02.2023 | https://leetcode.com/problems/container-with-most-water/                      |
 | Find Minimum in Rotated Sorted Array           | Medium     | 16.02.2023 | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/           |
 | Search in Rotated Sorted Array                 | Medium     | 16.02.2023 | https://leetcode.com/problems/search-in-rotated-sorted-array/                 |
+| Longest Repeating Character Replacement        | Medium     | 18.02.2023 | https://leetcode.com/problems/longest-repeating-character-replacement/        |
