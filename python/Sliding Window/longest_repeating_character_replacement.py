@@ -13,3 +13,6 @@ def character_replacement(s:str, k:int) -> int:
         result = max(result, right - left + 1)
     return result
 
+s = "AABABBA"
+k = 1
+print(character_replacement(s, k))
