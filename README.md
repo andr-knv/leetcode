@@ -15,3 +15,11 @@
 | Find Minimum in Rotated Sorted Array           | Medium     | 16.02.2023 | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/           |
 | Search in Rotated Sorted Array                 | Medium     | 16.02.2023 | https://leetcode.com/problems/search-in-rotated-sorted-array/                 |
 | Longest Repeating Character Replacement        | Medium     | 18.02.2023 | https://leetcode.com/problems/longest-repeating-character-replacement/        |
+| Design Linked List                             | Medium     | 21.02.2023 | https://leetcode.com/problems/design-linked-list/                             |
+| Linked List Cycle                              | Easy       | 22.02.2023 | https://leetcode.com/problems/linked-list-cycle/                              |
+| Merge Two Sorted Lists                         | Easy       | 23.02.2023 | https://leetcode.com/problems/merge-two-sorted-lists/                         |
+| Reorder List                                   | Medium     | 23.02.2023 | https://leetcode.com/problems/reorder-list/                                   |
+| Invert Binary Tree                             | Easy       | 24.02.2023 | https://leetcode.com/problems/invert-binary-tree/                             |
+| Maximum Depth of Binary Tree                   | Easy       | 24.02.2023 | https://leetcode.com/problems/maximum-depth-of-binary-tree/                   |
+| Same Tree                                      | Easy       | 24.02.2023 | https://leetcode.com/problems/same-tree/                                      |
+| Subtree of Another Tree                        | Easy       | 24.02.2023 | https://leetcode.com/problems/subtree-of-another-tree/                        |
